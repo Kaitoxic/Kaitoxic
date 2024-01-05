@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)__
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</br>
     🌱Currently I'm learning C and NASM
     💎guns.lol/kaito
     👯 I’m looking to collaborate with other developers.
