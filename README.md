@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     🌱Currently I'm learning C and NASM
-    💎Dsc.bio/satanjs7
+    💎guns.lol/kaito
     👯 I’m looking to collaborate with other developers.
     📫 How to reach me : Discord/Twitter/Email
 
 🏠 Homepage
 Author
 
-👤 Satan.js7
+👤 Kaito.js7
 
     Website: SOON
     Twitter: @DSCKaito
