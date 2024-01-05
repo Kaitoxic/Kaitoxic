@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,py,c,nasm,html,css,pr,processing),](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=js,py,c,asm,html,css,pr,processing),](https://skillicons.dev)</br>
     🌱Currently I'm learning C and NASM
     💎guns.lol/kaito
     👯 I’m looking to collaborate with other developers.
