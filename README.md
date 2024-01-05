@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,py,c,wasm,html,css,processing)](https://skillicons.dev)</br>
 
 <h2>Skills :</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)</br>
 
     🌱Currently I'm learning C and NASM
