@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2>My love :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vs2019,vscode,vim)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim)](https://skillicons.dev)</br>
 
     🌱Currently I'm learning C, JAVA and NASM
     💎guns.lol/kaito
