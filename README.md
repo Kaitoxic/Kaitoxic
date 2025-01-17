@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 -->
 <h2>Programming Languages :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,c,wasm,html,css,processing,ocaml)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=js,py,c,wasm,html,css,processing,ocaml,java)](https://skillicons.dev)</br>
 
 <h2>Skills :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)</br>
 
-    🌱Currently I'm learning C and NASM
+    🌱Currently I'm learning C, JAVA and NASM
     💎guns.lol/kaito
     👯 I’m looking to collaborate with other developers.
     📫 How to reach me : Discord/Twitter/Email
