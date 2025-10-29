@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian)](https://skillicons.dev)</br>
 
-    🌱Currently I'm learning C, JAVA and NASM
+    🌱Currently I'm learning DeepLearning and I want to learn Next.js
     💎guns.lol/kaito
     👯 I’m looking to collaborate with other developers.
     📫 How to reach me : Discord/Twitter/Email
