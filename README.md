@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <h2>Programming Languages :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,npm,py,c,cpp,wasm,html,css,processing,ocaml,java,sql)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=js,npm,py,c,cpp,wasm,html,css,processing,ocaml,java,sql,rust)](https://skillicons.dev)</br>
 
 <h2>Skills :</h2>
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2>My love :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian,ubuntu)](https://skillicons.dev)</br>
 
     🌱Currently I'm learning DeepLearning and I want to learn Next.js
     💎guns.lol/kaito
