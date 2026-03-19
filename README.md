@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian,ubuntu)](https://skillicons.dev)</br>
 
     🌱Currently I'm learning Rust 
-    <!--💎guns.lol/kaito-->
     👯 I’m looking to collaborate with other developers.
-    <!--📫 How to reach me : Discord/Twitter/Email-->
-
+    
 🏠 Homepage
 Author
 
