@@ -7,20 +7,20 @@ Here are some ideas to get you started:
 -->
 <h2>Programming Languages :</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,npm,py,c,cpp,wasm,html,css,processing,ocaml,java,rust)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=js,npm,py,c,cpp,html,css,processing,ocaml,java,rust)](https://skillicons.dev)</br>
 
 <h2>Skills :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)</br>
 
-<h2>My love :</h2>
+<h2>My Favs :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,vim,obsidian,debian,ubuntu)](https://skillicons.dev)</br>
 
-    🌱Currently I'm learning DeepLearning and I want to learn Next.js
-    💎guns.lol/kaito
+    🌱Currently I'm learning Rust 
+    <!--💎guns.lol/kaito-->
     👯 I’m looking to collaborate with other developers.
-    📫 How to reach me : Discord/Twitter/Email
+    <!--📫 How to reach me : Discord/Twitter/Email-->
 
 🏠 Homepage
 Author
@@ -28,7 +28,7 @@ Author
 👤 Kaito.js7
 
     Website: SOON
-    Twitter: @DSCKaito
-    Github: @Kaitoxic
+    Twitter: x
+    Github: @clmtdq
 
 
