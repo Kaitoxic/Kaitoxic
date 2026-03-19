@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,npm,py,c,cpp,html,css,processing,ocaml,java,rust)](https://skillicons.dev)</br>
 
-<h2>Skills :</h2>
+<h2>More Skills :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=pr,ps)](https://skillicons.dev)</br>
 
